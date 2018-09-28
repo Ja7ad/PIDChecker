@@ -1,6 +1,8 @@
 
 # PID Key Checker
 
+[![CircleCI](https://img.shields.io/circleci/project/github/ntkme/github-buttons.svg)](https://github.com/BlackRouter/PIDChecker/releases)
+
 PID Key Checker a free app for check Microsoft License Key.
 
 ## Features:
