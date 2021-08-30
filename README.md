@@ -10,4 +10,4 @@ PID Key Checker a free app for check Microsoft License Key.
 - Automatic update database
 - Blocked key checker
 
-* Telegram: https://t.me/Ja7ad
+* Telegram: https://t.me/Ja7adR
