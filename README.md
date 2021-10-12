@@ -2,6 +2,7 @@
 
 PID Key Checker a free app for check Microsoft License Key.
 
+
 ## Features:
 - Fluent Design
 - New PKeyConfig Database
@@ -11,3 +12,7 @@ PID Key Checker a free app for check Microsoft License Key.
 - Blocked key checker
 
 * Telegram: https://t.me/Ja7adR
+
+### Donate to Javad
+
+- https://javad.tech/donate
